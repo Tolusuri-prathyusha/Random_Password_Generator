@@ -7,4 +7,4 @@
 * **The random** module can generate random numbers
 * **string** module contains a number of functions to process the standard python string.
 # Python Password Generator Output
-![OUTPUT](C:\Users\Prath\OneDrive\Desktop\PasswordGenerator.png)
+

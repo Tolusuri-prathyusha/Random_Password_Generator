@@ -6,6 +6,12 @@
 * **pyperclip** module allows us to copy and paste text to and from the clipboard to your computer
 * **The random** module can generate random numbers
 * **string** module contains a number of functions to process the standard python string.
+# Project File Structure
+*Import modules
+*Initialized Window
+*Select Password Length
+*Define Functions
+
 # Python Password Generator Output
 ![PasswordGenerator](https://github.com/Tolusuri-prathyusha/Random_Password_Generator/assets/113997379/524730e5-aa8f-4ec1-9348-1253ab6bb575)
 
